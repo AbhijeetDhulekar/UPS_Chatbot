@@ -1,0 +1,142 @@
+{
+  "stats": {
+    "created_at": "2026-03-03T23:32:11.620191",
+    "updated_at": "2026-03-03T23:38:48.287896",
+    "total_chunks": 321,
+    "total_indexes": 321,
+    "queries_performed": 0
+  },
+  "total_chunks": 321,
+  "metadata_summary": [
+    {
+      "gri_id": null,
+      "section_header": "2024 | GRI",
+      "page_start": 1,
+      "page_end": 2,
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "Environmental",
+      "page_range": "1-2",
+      "chunk_id": "fa0e3864"
+    },
+    {
+      "gri_id": null,
+      "section_header": "2024 | GRI",
+      "page_start": 1,
+      "page_end": 2,
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "General",
+      "page_range": "1-2",
+      "chunk_id": "24a35172"
+    },
+    {
+      "gri_id": null,
+      "section_header": "2024 | GRI*",
+      "page_start": 2,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "Environmental",
+      "page_range": "2-3",
+      "chunk_id": "a8d41d13"
+    },
+    {
+      "gri_id": null,
+      "section_header": "This report was prepared in accordance with the Global Reporting Initiative (\"GRI\") Standards for the",
+      "page_start": 3,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "General",
+      "page_range": "3-3",
+      "chunk_id": "f00a5603"
+    },
+    {
+      "gri_id": null,
+      "section_header": "period (January 1, 2024 to December 31, 2024). We have included in this GRI Content Index relevant",
+      "page_start": 3,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "General",
+      "page_range": "3-3",
+      "chunk_id": "f00a5603"
+    },
+    {
+      "gri_id": null,
+      "section_header": "data and information in accordance with the GRI Sustainability Reporting Standards (Universal Standards",
+      "page_start": 3,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "General",
+      "page_range": "3-3",
+      "chunk_id": "f00a5603"
+    },
+    {
+      "gri_id": null,
+      "section_header": "the disclosures in this GRI Content Index, as of, and for the year ended, December 31, 2024.",
+      "page_start": 3,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "General",
+      "page_range": "3-3",
+      "chunk_id": "f00a5603"
+    },
+    {
+      "gri_id": null,
+      "section_header": "Management asserts that the disclosures in this 2024 GRI Content Index as of and for the year ended",
+      "page_start": 3,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "General",
+      "page_range": "3-3",
+      "chunk_id": "f00a5603"
+    },
+    {
+      "gri_id": null,
+      "section_header": "December 31, 2024 are presented in accordance with the GRI Sustainability Reporting Standards.",
+      "page_start": 3,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "General",
+      "page_range": "3-3",
+      "chunk_id": "f00a5603"
+    },
+    {
+      "gri_id": null,
+      "section_header": "assertion relating to the disclosures in this 2024 GRI Content Index, as well as an examination",
+      "page_start": 3,
+      "page_end": 3,
+      "chunk_index": 0,
+      "total_chunks": 1,
+      "doc_version": "2024",
+      "doc_name": "UPS-GRI-Report-2024",
+      "category": "Environmental",
+      "page_range": "3-3",
+      "chunk_id": "f00a5603"
+    }
+  ]
+}
