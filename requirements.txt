@@ -1,0 +1,16 @@
+# requirements.txt
+openai
+python-dotenv
+pdfplumber
+pymupdf
+sentence-transformers
+nltk
+rank-bm25
+faiss-cpu
+redis
+streamlit
+numpy
+scikit-learn
+pydantic
+tenacity
+loguru
